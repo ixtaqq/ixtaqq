@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="670" viewBox="0 0 1100 670" role="img" aria-labelledby="title desc">
+<title id="title">Aizat Taqqiyudin - Software Developer</title>
+<desc id="desc">Terminal-style profile with an AT ASCII monogram. Software developer in Putrajaya, Malaysia, building applied AI and data applications with Python and TypeScript.</desc>
+<rect width="1100" height="670" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="1098" height="668" rx="15" fill="none" stroke="#30363d"/>
+<path d="M16 0h1068a16 16 0 0 1 16 16v35H0V16A16 16 0 0 1 16 0" fill="#161b22"/>
+<circle cx="25" cy="25" r="5" fill="#f07878"/><circle cx="44" cy="25" r="5" fill="#e5b566"/><circle cx="63" cy="25" r="5" fill="#85c99b"/>
+<g font-family="'Courier New', monospace" font-size="15" fill="#8b949e">
+<text x="86" y="30">ixtaqq@github: ~</text><text x="926" y="30">PROFILE / 01</text>
+</g>
+<g font-family="'Courier New', monospace">
+<text x="36" y="86" font-size="17" fill="#7ee787">$</text><text x="57" y="86" font-size="17" fill="#c9d1d9">whoami --developer</text>
+
+<text x="26" y="150" font-size="15" fill="#a5b5c6" xml:space="preserve">           .-----------------.</text>
+<text x="26" y="169" font-size="15" fill="#a5b5c6" xml:space="preserve">        .--+  A I Z A T . D E V</text>
+<text x="26" y="188" font-size="15" fill="#a5b5c6" xml:space="preserve">        |  `-----------------'</text>
+<text x="26" y="207" font-size="15" fill="#a5b5c6" xml:space="preserve">        |</text>
+<text x="26" y="226" font-size="15" fill="#79c0ff" xml:space="preserve">        |     ##        #######</text>
+<text x="26" y="245" font-size="15" fill="#79c0ff" xml:space="preserve">        |    ####          ##</text>
+<text x="26" y="264" font-size="15" fill="#79c0ff" xml:space="preserve">        |   ##  ##         ##</text>
+<text x="26" y="283" font-size="15" fill="#79c0ff" xml:space="preserve">        |  ##    ##        ##</text>
+<text x="26" y="302" font-size="15" fill="#79c0ff" xml:space="preserve">        |  ########        ##</text>
+<text x="26" y="321" font-size="15" fill="#79c0ff" xml:space="preserve">        |  ##    ##        ##</text>
+<text x="26" y="340" font-size="15" fill="#79c0ff" xml:space="preserve">        |  ##    ##        ##</text>
+<text x="26" y="359" font-size="15" fill="#a5b5c6" xml:space="preserve">        |</text>
+<text x="26" y="378" font-size="15" fill="#a5b5c6" xml:space="preserve">        +---------------------+</text>
+<text x="26" y="397" font-size="15" fill="#a5b5c6" xml:space="preserve">        |  CODE / DATA / AI    |</text>
+<text x="26" y="416" font-size="15" fill="#a5b5c6" xml:space="preserve">        +---------------------+</text>
+<text x="26" y="435" font-size="15" fill="#a5b5c6" xml:space="preserve">           |   |   |   |</text>
+<text x="26" y="454" font-size="15" fill="#a5b5c6" xml:space="preserve">        ---+---+---+---+---</text>
+<text x="26" y="473" font-size="15" fill="#a5b5c6" xml:space="preserve">           o   o   o   o</text>
+<text x="95" y="543" fill="#8b949e" font-size="14">build. measure. improve.</text>
+<text x="410" y="130" font-size="19" fill="#7ee787">ixtaqq</text>
+<text x="483" y="130" font-size="19" fill="#c9d1d9"> / Aizat Taqqiyudin</text>
+<text x="410" y="153" font-size="16" fill="#30363d">----------------------------------------------</text>
+<text x="410" y="184" font-size="15" fill="#d2a679">Role</text>
+<text x="579" y="184" font-size="15" fill="#c9d1d9">Software Developer</text>
+<text x="410" y="210" font-size="15" fill="#d2a679">Direction</text>
+<text x="579" y="210" font-size="15" fill="#c9d1d9">Applied AI &amp; Data Applications</text>
+<text x="410" y="236" font-size="15" fill="#d2a679">Location</text>
+<text x="579" y="236" font-size="15" fill="#c9d1d9">Putrajaya, Malaysia</text>
+<text x="410" y="262" font-size="15" fill="#d2a679">Education</text>
+<text x="579" y="262" font-size="15" fill="#c9d1d9">B.Comp.Sc. / Software Engineering</text>
+<text x="410" y="300" font-size="15" fill="#d2a679">Languages</text>
+<text x="579" y="300" font-size="15" fill="#c9d1d9">Python, TypeScript, JavaScript, SQL</text>
+<text x="410" y="326" font-size="15" fill="#d2a679">Frontend</text>
+<text x="579" y="326" font-size="15" fill="#c9d1d9">React, Next.js, Tailwind CSS</text>
+<text x="410" y="352" font-size="15" fill="#d2a679">Data</text>
+<text x="579" y="352" font-size="15" fill="#c9d1d9">PostgreSQL, Supabase, pgvector</text>
+<text x="410" y="378" font-size="15" fill="#d2a679">AI</text>
+<text x="579" y="378" font-size="15" fill="#c9d1d9">LLM APIs, embeddings, validation</text>
+<text x="410" y="404" font-size="15" fill="#d2a679">Quality</text>
+<text x="579" y="404" font-size="15" fill="#c9d1d9">pytest, Hypothesis, Vitest, CI</text>
+<text x="410" y="442" font-size="15" fill="#d2a679">Building</text>
+<text x="579" y="442" font-size="15" fill="#c9d1d9">Goldirham Stack / InvestGPT</text>
+<text x="410" y="468" font-size="15" fill="#d2a679">Interests</text>
+<text x="579" y="468" font-size="15" fill="#c9d1d9">Chess, financial research, software</text>
+<text x="410" y="506" font-size="15" fill="#d2a679">Learning</text>
+<text x="579" y="506" font-size="15" fill="#c9d1d9">ML, RAG evaluation, safe agents</text>
+<text x="410" y="532" font-size="15" fill="#d2a679">Completed</text>
+<text x="579" y="532" font-size="15" fill="#c9d1d9">Claude 101 / Anthropic</text>
+<text x="410" y="570" font-size="15" fill="#d2a679">GitHub</text>
+<text x="579" y="570" font-size="15" fill="#c9d1d9">github.com/ixtaqq</text>
+<text x="410" y="596" font-size="15" fill="#d2a679">LinkedIn</text>
+<text x="579" y="596" font-size="15" fill="#c9d1d9">linkedin.com/in/aizattaqq</text>
+</g><path d="M36 625H1064" stroke="#30363d"/>
+<text x="36" y="651" font-family="Courier New, monospace" font-size="13" fill="#8b949e">SYSTEM STATUS</text>
+<circle cx="181" cy="647" r="4" fill="#7ee787"/>
+<text x="195" y="651" font-family="Courier New, monospace" font-size="13" fill="#c9d1d9">building useful software</text></svg>
